@@ -1,0 +1,17 @@
+Тестовое задание по MVC+Java+WEB
+
+В проекте использовались продукты/технологии:
+- Java 8
+- Web-server – Tomcat 8.5.5
+- MVC framework – Spring MVC 4.3.3.RELEASE
+- IoC – Spring IoC 33
+- СУБД – MySQL 5.6.30-1
+- Доступ к БД – Hibernate 4.3.11.Final + JPA-аннотации
+- mysql-connector-java – 5.1.36
+- Логирование – log4j 1.2.17
+- Data Source – commons-dbcp 1.4
+- jstl 1.2
+- HTML, CSS
+- Сборщик проекта – Maven 3.3.9
+- IDE – Intellij IDEA
+- Система управления версиями – Git, GitHub

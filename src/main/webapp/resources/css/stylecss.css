@@ -1,0 +1,42 @@
+body{
+    background: lightslategray; /*цвет фона*/
+}
+
+table{
+    border: 2px double black; /*параметры границы*/
+    background: #eaeaea; /*цвет фона таблицы*/
+    border-spacing: 5px; /*расстояние между границами ячеек в таблице*/
+    width: 200px; /*ширина таблицы*/
+    margin: auto; /*выравнивание таблицы по центру окна*/
+}
+
+th{
+    background: orange; /*цвет фона*/
+}
+
+.cssTrColor:hover{
+    background: darkorange; /*цвет фона при наведении*/
+    color: darkred; /*цвет текста при наведении*/
+}
+
+#cssLeftMenu{
+    background: lightcyan;
+    float: left; /*по какой стороне будет выравниваться элемент*/
+    width: 20%; /*ширина*/
+    height: 700px; /*высота*/
+    padding-top: 20px; /*поле сверху*/
+    margin-left: 24%; /*величина отступа от левого края элемента*/
+}
+
+#cssContent{
+    background: lightcyan;
+    width: 30%;
+    height: 700px;
+    padding-top: 20px; /*поле сверху*/
+    margin-left: 47%; /*величина отступа от левого края элемента*/
+}
+
+.cssBtn{
+    color: blue;
+    font-size: 16px;
+}
